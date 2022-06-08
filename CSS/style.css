@@ -1,0 +1,46 @@
+body{
+ font-family: 'open sans',sans-serif;
+
+}
+.banner-container{
+    background-color: black;
+
+}
+.banner-coloum{
+    background-color: rgb(179, 163, 163);   
+}
+.nav-link {
+   float: right; 
+}
+.navbar_container{
+    background-color: rgb(107, 98, 98);
+    float:50%;
+    color: white;
+    z-index: 2;
+}
+.navbar{
+    position: sticky;
+    top:0;
+}
+.about_container{
+    background-color: black;
+
+}
+.bg-bluetype{
+    background-color: rgb(93, 93, 192);
+    
+}
+.bg-bluetype:hover{
+    color: rgb(10, 10, 10)!important;
+}
+.project_container{
+    background-color:darkgrey;
+
+}
+.form_container{
+    background-color: black;
+}
+
+.home{
+    background-image: url('imagess/f.webp');
+}
